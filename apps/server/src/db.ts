@@ -1,6 +1,6 @@
 import { Database } from "bun:sqlite";
 
-const db = new Database(process.cwd() + "/apps/server/data/auth.sqlite");
+const db = new Database(new URL("./../data/auth.sqlite", import.meta.url).pathname);
 
 // Initialize tables
 db.run(`

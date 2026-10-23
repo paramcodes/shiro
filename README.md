@@ -10,7 +10,15 @@ Manage and organize your boards with user ownership isolation.
 Full tldraw canvas integration featuring sticky notes, shapes, text, connectors, templates (Brainstorming, Retrospective, Flowchart), and export.
 ![Shiro Editor Workspace](shiro-editor.png)
 
+## Live Demo & Feature Walkthrough
+
+<video width="100%" controls autoplay loop muted>
+  <source src="shiro-demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ---
+
 
 ## Features & End-to-End Workflow
 
