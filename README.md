@@ -2,7 +2,13 @@
 
 Shiro is a high-performance, browser-based collaborative whiteboard built for small teams. It combines a clean, Miro-inspired React/Vite interface with a robust Bun backend, tldraw canvas engine, Better Auth, and SQLite-backed durable persistence and real-time WebSocket sync.
 
-![Shiro Whiteboard Preview](shiro-preview.svg)
+## Board Dashboard
+Manage and organize your boards with user ownership isolation.
+![Shiro Dashboard](shiro-dashboard.png)
+
+## tldraw Whiteboard Editor
+Full tldraw canvas integration featuring sticky notes, shapes, text, connectors, templates (Brainstorming, Retrospective, Flowchart), and export.
+![Shiro Editor Workspace](shiro-editor.png)
 
 ---
 
