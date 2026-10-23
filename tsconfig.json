@@ -9,5 +9,6 @@
     "noEmit": true,
     "types": []
   },
-  "include": ["packages/contracts/src/**/*", "apps/server/src/**/*", "apps/web/src/**/*", "types/**/*.d.ts", "apps/web/vite.config.ts"]
+  "include": ["packages/contracts/src/**/*", "apps/server/src/**/*.ts", "apps/web/src/**/*.tsx", "apps/web/src/**/*.ts", "types/**/*.d.ts", "apps/web/vite.config.ts"],
+  "exclude": ["apps/web/src/__tests__"]
 }
