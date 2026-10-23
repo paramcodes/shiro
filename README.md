@@ -12,12 +12,12 @@ Full tldraw canvas integration featuring sticky notes, shapes, text, connectors,
 
 ## Live Demo & Feature Walkthrough
 
-<video width="100%" controls autoplay loop muted>
-  <source src="shiro-demo.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+![Shiro Demo Walkthrough](shiro-demo.gif)
+
+> [Download / Watch HD Video (MP4)](shiro-demo.mp4)
 
 ---
+
 
 
 ## Features & End-to-End Workflow
